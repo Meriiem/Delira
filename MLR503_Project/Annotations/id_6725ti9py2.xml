@@ -1,2 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<annotation><filename>id_6725ti9py2.jpg</filename><size><width>1920</width><height>1080</height><depth>3</depth></size><object><name>Trophozoite</name><confidence>1.0</confidence><bndbox><xmin>1727</xmin><ymin>1897</ymin><xmax>1820</xmax><ymax>1984</ymax></bndbox></object><object><name>Trophozoite</name><confidence>1.0</confidence><bndbox><xmin>1121</xmin><ymin>1831</ymin><xmax>1230</xmax><ymax>1924</ymax></bndbox></object></annotation>

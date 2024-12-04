@@ -1,2 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<annotation><filename>id_12folelsam.jpg</filename><size><width>1920</width><height>1080</height><depth>3</depth></size><object><name>Trophozoite</name><confidence>1.0</confidence><bndbox><xmin>869</xmin><ymin>530</ymin><xmax>962</xmax><ymax>667</ymax></bndbox></object><object><name>Trophozoite</name><confidence>1.0</confidence><bndbox><xmin>3072</xmin><ymin>2023</ymin><xmax>3203</xmax><ymax>2154</ymax></bndbox></object></annotation>
