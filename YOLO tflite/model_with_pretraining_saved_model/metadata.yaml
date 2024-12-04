@@ -1,0 +1,16 @@
+description: Ultralytics YOLO11n model trained on /usr/src/ultralytics/ultralytics/cfg/datasets/coco.yaml
+author: Ultralytics
+date: '2024-12-03T11:52:24.166574'
+version: 8.3.40
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: NEG
+  1: WBC
+  2: Trophozoite
