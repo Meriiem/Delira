@@ -6,7 +6,7 @@ This project aims towards optimizing machine learning models for Malaria Parasit
 
 The qunatization methods used include floating point 16 (FP16), Integer Qunatization using representation learning (INT-REP), and Qunatization Aware Training (QAT). All obtained models are available at models folder. The release version of the application developed is available under mobileapp folder. The project report is available at the main branch. 
 
-The dataset can be obtained through: https://zindi.africa/competitions/lacuna-malaria-detection-challenge/data
+The dataset can be obtained through: https://drive.google.com/file/d/16T40TdpaB8VXohm50SySREwrzbuPcJBC/view?usp=sharing
 
 ### Mobile Application Walkthrough
 
