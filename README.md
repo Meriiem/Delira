@@ -8,7 +8,7 @@ The qunatization methods used include floating point 16 (FP16), Integer Qunatiza
 
 The dataset can be obtained through: https://zindi.africa/competitions/lacuna-malaria-detection-challenge/data
 
-#### Mobile Application Walkthrough
+### Mobile Application Walkthrough
 
 The app consists of 3 main screens: 1. Analytics, 2. Classify, and 3. Database. You can navigate through the screens using the bottom navigation bar.
 
