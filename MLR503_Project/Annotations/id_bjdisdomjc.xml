@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><filename>id_bjdisdomjc.jpg</filename><size><width>1920</width><height>1080</height><depth>3</depth></size><object><name>Trophozoite</name><confidence>1.0</confidence><bndbox><xmin>1797</xmin><ymin>1527</ymin><xmax>1934</xmax><ymax>1664</ymax></bndbox></object></annotation>
